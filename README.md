@@ -1,3 +1,5 @@
+[![CI_CD](https://github.com/zachary-fennie/PySpark_Data_Processing/actions/workflows/cicd.yml/badge.svg)](https://github.com/zachary-fennie/PySpark_Data_Processing/actions/workflows/cicd.yml)
+
 # PySpark Data Processing
 
 ## Description
